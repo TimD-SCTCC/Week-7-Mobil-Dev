@@ -44,7 +44,7 @@ class _EditItemPageState extends State<EditItemPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('LastName Week 7'),
+        title: Text('DeLong Week 7 - Edit Page'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
